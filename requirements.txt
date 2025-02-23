@@ -1,1 +1,8 @@
 streamlit
+requests
+shapely
+folium
+streamlit-folium
+geopy
+pytest
+pytest-mock
