@@ -1,8 +1,6 @@
 streamlit
-requests
+pandas
+openrouteservice
+geopandas
 shapely
-folium
-streamlit-folium
-geopy
-pytest
-pytest-mock
+pydeck
